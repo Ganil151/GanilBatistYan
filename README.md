@@ -1,6 +1,6 @@
 # ♾️ Continuous Learning - Continuous Development
 
-# 👋 Hi, I'm Ganil Batist Yan | DevOps Engineer
+## 👋 Hi, I'm Ganil Batist Yan | DevOps Engineer
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ganil-batist-yan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
