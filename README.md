@@ -68,7 +68,3 @@ I am a **DevOps Engineer** with 4+ years of experience focused on building high-
 * ☸️ **CKA (In Progress):** Expected Jan 2025
 * ☁️ **AWS SAA-03 (In Progress):** Expected April 2025
 * 🎓 **Acloud Guru:** DevOps Engineer Track (Completed 2024)
-
----
-
-*"Automate everything, document the rest."* ✍️
