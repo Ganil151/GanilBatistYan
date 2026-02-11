@@ -1,70 +1,71 @@
-# ♾️ Continuous Learning - Continuous Development
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ganil%20Batist%20Yan&fontSize=80" />
+  
+<div align="center">
 
-## 👋 Hi, I'm Ganil Batist Yan | DevOps Engineer
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://credly.com)
+[![CKA](https://img.shields.io/badge/CNCF-CKA_Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://credly.com)
+[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://credly.com)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ganil-batist-yan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ganilbatistyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Ganil151"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
+</div>
 
-### 🔭 I’m currently working on ...
-Optimizing **GitOps workflows** with ArgoCD and refining **Karpenter** autoscaling policies to further reduce cloud compute waste in high-traffic Kubernetes environments.
-
-### 🌱 I’m currently learning ...
-Mastering advanced cluster security for the **CKA (Certified Kubernetes Administrator)** and deep-diving into **AWS Solution Architecture (SAA-C03)** to design more resilient global infrastructures.
-
-### 🤝 I’m looking to collaborate on ...
-My [DevOps Repository](https://github.com/Ganil151/Devops.git)! 🚀 I’m building a collection of best-practice manifests and scripts. Feel free to **clone the repo**, submit a PR, or drop some innovative ideas in the issues!
-
-### 📫 How to reach me: 
-📞 **Phone:** +1-809-897-5269  
-📧 **Email:** ganilbatistyan@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/ganil-batist-yan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ganilbatistyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ganil151"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
-### ❤️ I love Tech
-I thrive at the intersection of development and operations. My passion lies in creating systems that are not just "up," but are **observable, self-healing, and cost-efficient.**
+### 👨‍💻 About Me
+I am a **Senior DevOps & Platform Engineer** dedicated to building resilient, self-healing infrastructure. My expertise lies in **reducing deployment friction**, **optimizing cloud spend**, and implementing **GitOps best practices**. 
 
-### 🚀 Transforming Code into Scalable Infrastructure
-I am a **DevOps Engineer** with 4+ years of experience focused on building high-performance, secure, and cost-effective cloud environments. My mission is to bridge the gap between development and production through **automation**, **observability**, and **reliability**.
+I believe that infrastructure should be **predictable and automated**—allowing developers to focus on code while the platform handles the scale.
+
+- 🔭 **Current Focus:** Engineering high-concurrency Microservice architectures on **AWS EKS**.
+- 🌱 **Learning & Research:** Deep-diving into **eBPF-based Observability** (Cilium) and **FinOps** automation.
+- 🚀 **Mission:** Bridging the gap between code and production with **Security-first (DevSecOps)** automation.
+- 🤝 **Community:** Active contributor to Open Source automation manifests.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-| Category | Tools |
+| Domain | Tools |
 | :--- | :--- |
-| **Cloud & Orchestration** | ☁️ AWS (EKS, EC2, RDS, S3), Kubernetes, Docker, Karpenter |
-| **Infrastructure as Code** | 🏗️ Terraform, CloudFormation, Ansible |
-| **CI/CD & GitOps** | 🔄 Jenkins, ArgoCD, GitHub Actions, Helm |
-| **Observability** | 📊 Prometheus, Grafana, Loki |
-| **Languages & Scripting** | 🐍 Python, 🐚 Bash, ☕ Java (Maven/Gradle) |
-| **Networking & OS** | 🌐 TCP/IP, DNS, Route 53, Linux (Red Hat, Debian) |
+| **Cloud & Orchestration** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Karpenter](https://img.shields.io/badge/Karpenter-005571?style=flat-square&logo=amazon&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazon&logoColor=white) |
+| **CI/CD & GitOps** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argocd&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 
 ---
 
-### 🏆 Professional Highlights
+### 🏆 Professional Impact (The Numbers)
 
-* **Speed:** Improved time-to-market by **50%** through optimized CI/CD pipelines. ⚡
-* **Cost Savings:** Reduced monthly cloud spend by **$5,500** via automated environment scheduling. 💰
-* **Performance:** Boosted Kubernetes performance by **20%** while cutting resource waste by **15%**. 📈
-* **Reliability:** Engineered a multi-region **Disaster Recovery (DR)** solution with seamless failover using Route53 and ArgoCD. 🛡️
-
----
-
-### 🧪 Featured Project: Multi-Region EKS Failover
-
-*Designed and deployed a redundant microservice architecture across US-EAST-1 and US-EAST-2.*
-* **Infrastructure:** Provisioned dual EKS clusters and RDS instances using **Terraform**.
-* **Traffic Management:** Used **Route 53** health checks to automate failover between Regional ALBs.
-* **Data Consistency:** Implemented cross-region RDS replication and network routing for real-time data sync.
-* **GitOps:** Synchronized all application states using **ArgoCD**, ensuring DR environments match Primary exactly.
-* **Observability:** Centralized logging and metrics using the **Kube-Prometheus-Stack**.
+* 💰 **Cost Governance:** Reduced annual AWS spend by **$66k/year** by implementing automated environment lifecycle scheduling.
+* ⚡ **Velocity:** Accelerated deployment frequency by **50%** through re-engineered **Jenkins/ArgoCD** pipelines.
+* 📈 **Efficiency:** Improved application performance by **20%** and reduced resource waste by **15%** through K8s cluster tuning.
+* 🛡️ **Resilience:** Built a multi-region **DR strategy** achieving sub-10-minute failover using Route53 and GitOps.
 
 ---
 
-### 📚 Continuous Learning & Certs
-* ☸️ **CKA (In Progress):** Expected Jan 2025
-* ☁️ **AWS SAA-03 (In Progress):** Expected April 2025
-* 🎓 **Acloud Guru:** DevOps Engineer Track (Completed 2024)
+### 🧪 Featured Project: Enterprise Microservice Failover
+
+| **Spring PetClinic on AWS EKS (Production-Grade)** |
+| :--- |
+| **The Challenge:** Ensure 99.99% availability even during a total AWS Region outage. |
+| **The Solution:** |
+| 🏗️ **Infrastructure:** Multi-region EKS clusters provisioned via modular **Terraform**. |
+| 🔄 **GitOps Flow:** Global state synchronized across clusters using **ArgoCD**. |
+| 🛡️ **Resilience:** Cross-region **RDS Read Replicas** with automated DNS steering via **Route 53**. |
+
+---
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### ✍️ Latest Blog Posts
+<p align="center">
+  <i>"Automating the world, one commit at a time."</i>
+</p>
