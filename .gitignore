@@ -1,0 +1,31 @@
+# Environment variables
+# Keep .env.example in git for reference
+.env
+.env.*
+!.env.example
+
+# System & Log files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE & Editor configuration
+.vscode/
+.idea/
+
+# Terraform state and configuration
+# Never commit your state files or credentials
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+
+# Ansible temporary files
+*.retry
